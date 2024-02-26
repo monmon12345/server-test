@@ -122,3 +122,20 @@
 [18:16:58] [Netty Worker IO Thread #3/INFO]: [Prisoner_1543] disconnected with: Proxy lost connection to server.
 [18:16:58] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:53428|Prisoner_1543] <-> DownstreamBridge <-> [lobby] has disconnected
 [18:18:01] [main/INFO]: Command not found
+[18:19:07] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51340]: Connected via websocket
+[18:19:07] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51340]: Origin header is http://localhost:8081
+[18:19:07] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51340]: Logged in as 'Prisoner_1543'
+[18:19:07] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:51340|Prisoner_1543] -> UpstreamBridge has connected
+[18:19:07] [Netty Worker IO Thread #1/INFO]: [Prisoner_1543|/[0:0:0:0:0:0:0:1%0]:51340] <-> ServerConnector [lobby] has connected
+[18:20:48] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:51340|Prisoner_1543] -> UpstreamBridge has disconnected
+[18:20:48] [Netty Worker IO Thread #1/INFO]: [Prisoner_1543] disconnected with: Proxy lost connection to server.
+[18:20:48] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:51340|Prisoner_1543] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:20:50] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54770]: Connected via websocket
+[18:20:50] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54770]: Origin header is http://localhost:8081
+[18:20:50] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54770]: Logged in as 'Prisoner_1543'
+[18:20:50] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54770|Prisoner_1543] -> UpstreamBridge has connected
+[18:20:50] [Netty Worker IO Thread #3/INFO]: [Prisoner_1543|/[0:0:0:0:0:0:0:1%0]:54770] <-> ServerConnector [lobby] has connected
+[18:20:52] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54770|Prisoner_1543] -> UpstreamBridge has disconnected
+[18:20:52] [Netty Worker IO Thread #3/INFO]: [Prisoner_1543] disconnected with: Proxy lost connection to server.
+[18:20:52] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54770|Prisoner_1543] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:20:58] [main/INFO]: Command not found
