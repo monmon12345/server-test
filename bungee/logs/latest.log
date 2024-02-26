@@ -139,3 +139,11 @@
 [18:20:52] [Netty Worker IO Thread #3/INFO]: [Prisoner_1543] disconnected with: Proxy lost connection to server.
 [18:20:52] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54770|Prisoner_1543] <-> DownstreamBridge <-> [lobby] has disconnected
 [18:20:58] [main/INFO]: Command not found
+[18:24:06] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59662|jaydog] -> UpstreamBridge has disconnected
+[18:24:06] [Netty Worker IO Thread #0/INFO]: [jaydog] disconnected with: Proxy lost connection to server.
+[18:24:06] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59662|jaydog] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:24:14] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59854]: Connected via websocket
+[18:24:14] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59854]: Origin header is http://localhost:8081
+[18:24:14] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59854]: Logged in as 'Prisoner_1543'
+[18:24:14] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59854|Prisoner_1543] -> UpstreamBridge has connected
+[18:24:14] [Netty Worker IO Thread #2/INFO]: [Prisoner_1543|/[0:0:0:0:0:0:0:1%0]:59854] <-> ServerConnector [lobby] has connected

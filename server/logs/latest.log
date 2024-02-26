@@ -307,3 +307,7 @@
 [18:20:50] [Server thread/INFO]: Prisoner_1543[/[0:0:0:0:0:0:0:1]:50770] logged in with entity id 336509 at ([world]-250.50997302174264, 70.0, 304.16522158087776)
 [18:20:53] [Server thread/INFO]: Prisoner_1543 lost connection: Disconnected
 [18:20:53] [Server thread/INFO]: Prisoner_1543 left the game.
+[18:24:06] [Server thread/INFO]: jaydog lost connection: Disconnected
+[18:24:06] [Server thread/INFO]: jaydog left the game.
+[18:24:14] [Thread-20/INFO]: UUID of player Prisoner_1543 is 6ed77366-1d3e-306d-a446-6e6fac5a7739
+[18:24:14] [Server thread/INFO]: Prisoner_1543[/[0:0:0:0:0:0:0:1]:48820] logged in with entity id 346957 at ([world]-250.50997302174264, 70.0, 304.16522158087776)
