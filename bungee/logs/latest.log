@@ -57,3 +57,48 @@
 [16:38:40] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
 [16:38:40] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49364|ZaNdEr_1543] -> UpstreamBridge has disconnected
 [16:38:40] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:49364] <-> ServerConnector [lobby] has disconnected
+[16:39:25] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36894]: Connected via websocket
+[16:39:25] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36894]: Origin header is http://localhost:8081
+[16:39:25] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36894]: Logged in as 'ZaNdEr_1543'
+[16:39:25] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36894|ZaNdEr_1543] -> UpstreamBridge has connected
+[16:39:25] [Netty Worker IO Thread #3/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36894] <-> ServerConnector [lobby] has connected
+[16:39:25] [Netty Worker IO Thread #3/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36894] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[16:39:25] [Netty Worker IO Thread #3/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[16:39:25] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36894|ZaNdEr_1543] -> UpstreamBridge has disconnected
+[16:39:25] [Netty Worker IO Thread #3/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36894] <-> ServerConnector [lobby] has disconnected
+[16:39:29] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36934]: Connected via websocket
+[16:39:29] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36934]: Origin header is http://localhost:8081
+[16:39:30] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36934]: Logged in as 'ZaNdEr_1543'
+[16:39:30] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36934|ZaNdEr_1543] -> UpstreamBridge has connected
+[16:39:30] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36934] <-> ServerConnector [lobby] has connected
+[16:39:30] [Netty Worker IO Thread #2/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36934] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[16:39:30] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[16:39:30] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36934|ZaNdEr_1543] -> UpstreamBridge has disconnected
+[16:39:30] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36934] <-> ServerConnector [lobby] has disconnected
+[16:40:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57230]: Connected via websocket
+[16:40:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57230]: Origin header is http://localhost:8081
+[16:40:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57230]: Logged in as 'ZaNdEr_1543'
+[16:40:11] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57230|ZaNdEr_1543] -> UpstreamBridge has connected
+[16:40:11] [Netty Worker IO Thread #1/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:57230] <-> ServerConnector [lobby] has connected
+[16:40:11] [Netty Worker IO Thread #1/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:57230] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[16:40:11] [Netty Worker IO Thread #1/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[16:40:11] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57230|ZaNdEr_1543] -> UpstreamBridge has disconnected
+[16:40:11] [Netty Worker IO Thread #1/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:57230] <-> ServerConnector [lobby] has disconnected
+[16:40:59] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58256]: Connected via websocket
+[16:40:59] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58256]: Origin header is http://localhost:8081
+[16:40:59] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58256]: Logged in as 'ZaNdEr_1543'
+[16:40:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58256|ZaNdEr_1543] -> UpstreamBridge has connected
+[16:40:59] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:58256] <-> ServerConnector [lobby] has connected
+[16:40:59] [Netty Worker IO Thread #2/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:58256] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[16:40:59] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[16:40:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58256|ZaNdEr_1543] -> UpstreamBridge has disconnected
+[16:40:59] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:58256] <-> ServerConnector [lobby] has disconnected
+[16:43:37] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54950]: Connected via websocket
+[16:43:37] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54950]: Origin header is http://localhost:8081
+[16:43:37] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54950]: Logged in as 'ZaNdEr_1543'
+[16:43:37] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:54950|ZaNdEr_1543] -> UpstreamBridge has connected
+[16:43:37] [Netty Worker IO Thread #0/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:54950] <-> ServerConnector [lobby] has connected
+[16:43:37] [Netty Worker IO Thread #0/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:54950] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[16:43:37] [Netty Worker IO Thread #0/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[16:43:37] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:54950|ZaNdEr_1543] -> UpstreamBridge has disconnected
+[16:43:37] [Netty Worker IO Thread #0/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:54950] <-> ServerConnector [lobby] has disconnected
