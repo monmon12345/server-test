@@ -1,104 +1,51 @@
-[16:36:31] [main/INFO]: Using mbed TLS based native cipher.
-[16:36:31] [main/INFO]: Using zlib based native compressor.
-[16:36:31] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
-[16:36:31] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
-[16:36:31] [main/INFO]: Epoll is working, utilising it!
-[16:36:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
-[16:36:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
-[16:36:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
-[16:36:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
-[16:36:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
-[16:36:31] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
-[16:36:31] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:31] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:31] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:31] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:31] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:31] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:31] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[16:36:31] [main/WARN]: :>  
-[16:36:31] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
-[16:36:31] [main/WARN]: :>  
-[16:36:31] [main/WARN]: :>  This plugin wasn't tested to be 'working'
-[16:36:31] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
-[16:36:31] [main/WARN]: :>  apart from the versions listed below:
-[16:36:31] [main/WARN]: :>  
-[16:36:31] [main/WARN]: :>  - BungeeCord: 1.20-R0.2-SNAPSHOT:231024b:1777
-[16:36:31] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:d85fe36:556
-[16:36:31] [main/WARN]: :>  - FlameCord: 1.1.1
-[16:36:31] [main/WARN]: :>  
-[16:36:31] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
-[16:36:31] [main/WARN]: :>  
-[16:36:31] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
-[16:36:31] [main/WARN]: :>  
-[16:36:31] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[16:36:32] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
-[16:36:33] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
-[16:36:33] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.9 by lax1dude
-[16:36:33] [main/WARN]: Forced host server pvp is not defined
-[16:36:33] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:33] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:33] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:33] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:33] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:33] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[16:36:33] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
-[16:36:33] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
-[16:36:33] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[16:36:33] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
-[16:36:33] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
-[16:38:38] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/server-test/bungee/server-icon.png
-[16:38:40] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49364]: Connected via websocket
-[16:38:40] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49364]: Origin header is http://localhost:8081
-[16:38:40] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49364]: Logged in as 'ZaNdEr_1543'
-[16:38:40] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49364|ZaNdEr_1543] -> UpstreamBridge has connected
-[16:38:40] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:49364] <-> ServerConnector [lobby] has connected
-[16:38:40] [Netty Worker IO Thread #2/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:49364] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
-[16:38:40] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
-[16:38:40] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49364|ZaNdEr_1543] -> UpstreamBridge has disconnected
-[16:38:40] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:49364] <-> ServerConnector [lobby] has disconnected
-[16:39:25] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36894]: Connected via websocket
-[16:39:25] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36894]: Origin header is http://localhost:8081
-[16:39:25] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36894]: Logged in as 'ZaNdEr_1543'
-[16:39:25] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36894|ZaNdEr_1543] -> UpstreamBridge has connected
-[16:39:25] [Netty Worker IO Thread #3/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36894] <-> ServerConnector [lobby] has connected
-[16:39:25] [Netty Worker IO Thread #3/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36894] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
-[16:39:25] [Netty Worker IO Thread #3/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
-[16:39:25] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36894|ZaNdEr_1543] -> UpstreamBridge has disconnected
-[16:39:25] [Netty Worker IO Thread #3/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36894] <-> ServerConnector [lobby] has disconnected
-[16:39:29] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36934]: Connected via websocket
-[16:39:29] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36934]: Origin header is http://localhost:8081
-[16:39:30] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36934]: Logged in as 'ZaNdEr_1543'
-[16:39:30] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36934|ZaNdEr_1543] -> UpstreamBridge has connected
-[16:39:30] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36934] <-> ServerConnector [lobby] has connected
-[16:39:30] [Netty Worker IO Thread #2/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36934] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
-[16:39:30] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
-[16:39:30] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36934|ZaNdEr_1543] -> UpstreamBridge has disconnected
-[16:39:30] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:36934] <-> ServerConnector [lobby] has disconnected
-[16:40:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57230]: Connected via websocket
-[16:40:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57230]: Origin header is http://localhost:8081
-[16:40:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57230]: Logged in as 'ZaNdEr_1543'
-[16:40:11] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57230|ZaNdEr_1543] -> UpstreamBridge has connected
-[16:40:11] [Netty Worker IO Thread #1/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:57230] <-> ServerConnector [lobby] has connected
-[16:40:11] [Netty Worker IO Thread #1/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:57230] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
-[16:40:11] [Netty Worker IO Thread #1/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
-[16:40:11] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57230|ZaNdEr_1543] -> UpstreamBridge has disconnected
-[16:40:11] [Netty Worker IO Thread #1/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:57230] <-> ServerConnector [lobby] has disconnected
-[16:40:59] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58256]: Connected via websocket
-[16:40:59] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58256]: Origin header is http://localhost:8081
-[16:40:59] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58256]: Logged in as 'ZaNdEr_1543'
-[16:40:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58256|ZaNdEr_1543] -> UpstreamBridge has connected
-[16:40:59] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:58256] <-> ServerConnector [lobby] has connected
-[16:40:59] [Netty Worker IO Thread #2/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:58256] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
-[16:40:59] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
-[16:40:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58256|ZaNdEr_1543] -> UpstreamBridge has disconnected
-[16:40:59] [Netty Worker IO Thread #2/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:58256] <-> ServerConnector [lobby] has disconnected
-[16:43:37] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54950]: Connected via websocket
-[16:43:37] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54950]: Origin header is http://localhost:8081
-[16:43:37] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54950]: Logged in as 'ZaNdEr_1543'
-[16:43:37] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:54950|ZaNdEr_1543] -> UpstreamBridge has connected
-[16:43:37] [Netty Worker IO Thread #0/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:54950] <-> ServerConnector [lobby] has connected
-[16:43:37] [Netty Worker IO Thread #0/ERROR]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:54950] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
-[16:43:37] [Netty Worker IO Thread #0/INFO]: [ZaNdEr_1543] disconnected with: Exception Connecting:QuietException : Server is online mode!
-[16:43:37] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:54950|ZaNdEr_1543] -> UpstreamBridge has disconnected
-[16:43:37] [Netty Worker IO Thread #0/INFO]: [ZaNdEr_1543|/[0:0:0:0:0:0:0:1%0]:54950] <-> ServerConnector [lobby] has disconnected
+[16:44:49] [main/INFO]: Using mbed TLS based native cipher.
+[16:44:49] [main/INFO]: Using zlib based native compressor.
+[16:44:49] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
+[16:44:49] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[16:44:49] [main/INFO]: Epoll is working, utilising it!
+[16:44:49] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[16:44:49] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[16:44:49] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[16:44:49] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[16:44:49] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[16:44:49] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[16:44:49] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:49] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:49] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:49] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:49] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:49] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:49] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[16:44:49] [main/WARN]: :>  
+[16:44:49] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[16:44:49] [main/WARN]: :>  
+[16:44:49] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[16:44:49] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[16:44:49] [main/WARN]: :>  apart from the versions listed below:
+[16:44:49] [main/WARN]: :>  
+[16:44:49] [main/WARN]: :>  - BungeeCord: 1.20-R0.2-SNAPSHOT:231024b:1777
+[16:44:49] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:d85fe36:556
+[16:44:49] [main/WARN]: :>  - FlameCord: 1.1.1
+[16:44:49] [main/WARN]: :>  
+[16:44:49] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[16:44:49] [main/WARN]: :>  
+[16:44:49] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[16:44:49] [main/WARN]: :>  
+[16:44:49] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[16:44:49] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[16:44:50] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[16:44:50] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[16:44:50] [main/WARN]: Forced host server pvp is not defined
+[16:44:50] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:50] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:50] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:50] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:50] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:50] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[16:44:50] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[16:44:50] [Netty Worker IO Thread #0/ERROR] [EaglercraftXBungee]: Eaglercraft could not bind port: /0.0.0.0:8081
+[16:44:50] [Netty Worker IO Thread #0/ERROR] [EaglercraftXBungee]: Reason: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[16:44:50] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[16:44:50] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[16:44:50] [Netty Boss IO Thread #0/WARN]: Could not bind to host /127.0.0.1:25577
+io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
